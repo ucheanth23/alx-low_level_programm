@@ -1,5 +1,2 @@
 #!/bin/bash/
 gcc -c $CFILE
-^c
-^C
-^ C
